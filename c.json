@@ -1,0 +1,14 @@
+{
+  "log_conf":{
+    "which_level_log_should_print":0,
+    "ding_ding_url":"https://oapi.dingtalk.com/robot/send?access_token=06d9829e1a5b1f3d9a547c0fceee78a78db39f3d6393b467e26436f6df2ad06d"
+  },
+  "we_kan_setting":{
+    "token_encoded": "yGN5ZgyNxPq+FmVAIDfocA==",
+    "callback_path":"/",
+    "listen_port":"3344",
+    "opt_history_file_path":".",
+    "opt_ding_path":"https://oapi.dingtalk.com/robot/send?access_token=06d9829e1a5b1f3d9a547c0fceee78a78db39f3d6393b467e26436f6df2ad06d",
+    "boards_of_interest":["11"]
+  }
+}
